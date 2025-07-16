@@ -60,9 +60,13 @@ input[type="file"] {
     font-family: monospace;
 }
 
+.width-input-wrapper{
+    margin-top: 10px;
+}
+
 input[type="number"],
 button {
-    width: 75%;
+    width: 85%;
     margin-top: 5px;
     padding: 10px;
     font-size: 16px;
